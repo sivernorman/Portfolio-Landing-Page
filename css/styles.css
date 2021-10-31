@@ -189,3 +189,26 @@ about-area, .skills-area, .projects-area, .contact-area{
   input[type=submit]:hover {
     background-color: rgb(167, 195, 247);
   }
+
+  
+.copyright {
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+    background-color: #D4D7DE;
+	text-align: center;
+    font-family:Poppins;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+}
+
+.copyright .p-small {
+    color: #000;
+	text-align: center;
+}
+
+.copyright a {
+    color: #000;
+}
