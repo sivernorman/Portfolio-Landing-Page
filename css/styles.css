@@ -78,7 +78,7 @@ a:hover{
     background-size: cover;
 }
 
-about-area, .skills-area, .projects-area, .contact-area{
+.about-area, .skills-area, .projects-area, .contact-area{
     position: relative;
     display: flex;
     justify-content: space-around;
@@ -107,7 +107,6 @@ about-area, .skills-area, .projects-area, .contact-area{
 .icons-container {
 	margin-top: 3rem;
 }
-
 
 .icons-container img {
 	width: 100px;
@@ -190,7 +189,6 @@ about-area, .skills-area, .projects-area, .contact-area{
     background-color: rgb(167, 195, 247);
   }
 
-  
 .copyright {
 	padding-top: 1rem;
 	padding-bottom: 1rem;
