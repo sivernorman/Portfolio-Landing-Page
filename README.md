@@ -4,7 +4,7 @@ This is a personal portfolio website, portraying my front-end web developing ski
 A portfolio containing all the class projects done at Moringa school.
 
 # Website Link below ::::👇️👇️👇️
-# https://github.com/sivernorman/Portfolio-Landing-Page
+# https://sivernorman.github.io/Portfolio-Landing-Page/
 
 # Setup/Installation Requirements >>>>
 
