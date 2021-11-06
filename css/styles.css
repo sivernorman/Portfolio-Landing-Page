@@ -93,6 +93,7 @@ a:hover{
 }
 
 .about-area, .skills-area, .projects-area, .contact-area{
+    margin-top: 20px;
     position: relative;
     display: flex;
     justify-content: space-around;
