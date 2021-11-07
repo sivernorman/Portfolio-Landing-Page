@@ -1,7 +1,6 @@
 # Portfolio-Landing-Page
 This is a personal portfolio website, portraying my front-end web developing skills.
 
-#Portfolio-Landing-Page website.
 
 #Author Name silver Norman.
 
@@ -20,7 +19,7 @@ A portfolio containing all the class projects done at Moringa school.
 Technologies Used:
 # HTML 
 # CSS
-#Bootstrap
+# Bootstrap
 
 
 
