@@ -20,6 +20,7 @@ A portfolio containing all the class projects done at Moringa school.
 Technologies Used:
 # HTML 
 # CSS
+#Bootstrap
 
 
 
