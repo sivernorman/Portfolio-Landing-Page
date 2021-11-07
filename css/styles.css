@@ -93,7 +93,7 @@ a:hover{
 }
 
 .about-area, .skills-area, .projects-area, .contact-area{
-    margin-top: 20px;
+    margin-top: 0px;
     position: relative;
     display: flex;
     justify-content: space-around;
@@ -121,6 +121,7 @@ a:hover{
 }
 .icons-container {
 	margin-top: 3rem;
+    /* padding-top: 12rem; */
 }
 
 .icons-container img {
